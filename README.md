@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No.6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE:19-11-2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1491" height="811" alt="image" src="https://github.com/user-attachments/assets/c01f6ea9-be91-4039-9b8d-995cd72fe7a1" />
+<img width="1414" height="811" alt="image" src="https://github.com/user-attachments/assets/54218582-a7c8-4ff6-94a7-d79773b64ff3" />
+<img width="1389" height="736" alt="image" src="https://github.com/user-attachments/assets/042e142b-67d7-4223-8c32-2654fb749aeb" />
+<img width="1916" height="620" alt="image" src="https://github.com/user-attachments/assets/096f51e3-4853-4c54-bc3e-fee816a723b7" />
 
-### Name:
-### Register Number:
+### Name:LIGNESHWAR K
+### Register Number: 212223230113
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
